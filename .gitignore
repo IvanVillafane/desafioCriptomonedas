@@ -22,16 +22,5 @@ yarn-debug.log*
 yarn-error.log*
 
 node_modules
-.node_rept_history
-.lock-wscript
 
-package-lock.json
-.json
-package.json
-readme.node_modules
-public
 
-*node_modules
-#node_modules
-#public
-.public
